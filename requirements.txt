@@ -1,0 +1,7 @@
+streamlit
+transformers
+nltk
+huggingface
+torch
+gtts
+pyttsx3
